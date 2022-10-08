@@ -9,11 +9,13 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Needfinding](./slides/02-needfinding.pdf)
   * [Exercise](./slides/02b-needfinding-exercise.pdf) 
   * [Exercise developed together](./slides/02b-needfinding-exercise-done.pdf)
-* Synthetizing 
+* [Analyzing and Synthetizing](./slides/03-synthetizing.pdf)
+  * Exercise
+* Prototyping
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
-* Assignment 2
+* Assignment 2 - Refinement and Project Focus
 * Assignment 3
 * Assignment 4
 * Assignment 5
