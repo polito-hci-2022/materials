@@ -16,7 +16,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
-* Assignment 2 - Refinement and Project Focus
+* [Assignment 2 - Refinement and Project Focus](./assignments/A2-refinement-project.pdf)
 * Assignment 3
 * Assignment 4
 * Assignment 5
