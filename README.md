@@ -11,7 +11,6 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
   * [Exercise developed together](./slides/02b-needfinding-exercise-done.pdf)
 * [Analyzing and Synthetizing](./slides/03-synthetizing.pdf)
   * [Exercise](./slides/03b-tasks-exercise.pdf)
-  * Exercise developed together
 * Prototyping
 
 ## Assignments
