@@ -13,6 +13,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
   * [Exercise](./slides/03b-tasks-exercise.pdf)
 * [Prototyping](./slides/04-prototyping.pdf)
 * [Design Principles](./slides/05-design-principles.pdf)
+* [Visual Design](./slides/06-visualdesign.pdf)
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
