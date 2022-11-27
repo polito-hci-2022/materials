@@ -15,7 +15,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Design Principles](./slides/05-design-principles.pdf)
 * [Visual Design](./slides/06-visualdesign.pdf)
 * [Design Patterns](./slides/07-design-patterns.pdf)
-* Inclusive Design
+* [Design for Diversity](./slides/08-designing-diversity.pdf)
 * Heuristic Evaluation
 * Usability Testing
 
