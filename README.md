@@ -16,8 +16,8 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Visual Design](./slides/06-visualdesign.pdf)
 * [Design Patterns](./slides/07-design-patterns.pdf)
 * [Design for Diversity](./slides/08-designing-diversity.pdf)
-* Heuristic Evaluation
-* Usability Testing
+* [Heuristic Evaluation](./slides/09-heuristic-evaluation.pdf)
+* [Usability Testing]./slides/10-usability-testing.pdf)
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
